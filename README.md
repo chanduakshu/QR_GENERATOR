@@ -7,7 +7,7 @@ Just clean generation.
 ---
 
 ## Live Demo
-https://chadan-qrcode.netlify.app/
+(https://chandan-qrcode.netlify.app/)
 
 ---
 
